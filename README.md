@@ -20,7 +20,7 @@ Binary translator that converts RISC-V program binaries into WebAssembly bytecod
 ***Pacific Atlas***  
 An interactive geographic visualization system focused on the Pacific. Combines island profiles (population, languages, history) with toggleable layers for tectonics, volcanoes, and live earthquake data, alongside a sea-level rise simulator and island-hopping route planner.
 
-***Personal Portfolio***
+***Personal Portfolio***  
 Building a windows 98 themed portfolio with Javascript and CSS, soon to be hosted here on github pages.
 
 ---
