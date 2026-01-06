@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m **Abubakar**, a Computing Science student with a ***Major in AI*** at the University of Alberta.
+I’m [**Abubakar**](https://akuma277353.github.io/portfolio/), a Computing Science student with a ***Major in AI*** at the University of Alberta.
 
 I enjoy building software systems close to hardware, where performance, algorithms, and architecture intersect.
 
