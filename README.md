@@ -41,6 +41,8 @@ Building a windows 98 themed portfolio with Javascript and CSS, soon to be hoste
 [![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 
 ***Currently Exploring***  
