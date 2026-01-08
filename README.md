@@ -2,7 +2,9 @@
 
 I’m [**Abubakar**](https://akuma277353.github.io/portfolio/), a Computing Science student with a ***Major in AI*** at the University of Alberta.
 
-I enjoy building software systems close to hardware, where performance, algorithms, and architecture intersect.
+I enjoy building software systems close to hardware, where performance, algorithms, and architecture intersect.  
+
+Check out my personal portfolio website at https://akuma277353.github.io/portfolio
 
 ---
 
