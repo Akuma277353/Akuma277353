@@ -4,7 +4,7 @@ I’m [**Abubakar**](https://akuma277353.github.io/portfolio/), a Computing Scie
 
 I enjoy building software systems close to hardware, where performance, algorithms, and architecture intersect.  
 
-Check out my win95/98 themed personal portfolio website at https://akuma277353.github.io/portfolio
+Check out my ```win95/98``` themed personal portfolio website at https://akuma277353.github.io/portfolio
 
 ---
 
