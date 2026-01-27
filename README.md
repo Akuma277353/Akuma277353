@@ -17,10 +17,13 @@ Android application for fair access to high-demand community events using waitli
 Binary translator that converts RISC-V program binaries into WebAssembly bytecode while preserving program semantics, including instruction parsing, LEB128 encoding, and structured control flow generation.
 
 
-### ```Current Project```
+### ```Current Projects```
 
 ***Pacific Atlas***  
 An interactive geographic visualization system focused on the Pacific. Combines island profiles (population, languages, history) with toggleable layers for tectonics, volcanoes, and live earthquake data, alongside a sea-level rise simulator and island-hopping route planner.  
+
+***Autonomous Overload Remediation System [AORS]***  
+AORS: self-healing traffic control for CPU overload using psutil telemetry, online adaptive intake control, and ML-based retry-storm detection, delivered with a decoupled FastAPI + Streamlit control plane.
 
 
 ---
