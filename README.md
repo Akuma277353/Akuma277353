@@ -11,7 +11,10 @@ Check out my ```win95/98``` themed personal portfolio website at https://akuma27
 ### ```Favorite Projects```
 
 ***AuroraChance — Android Event Lottery Platform***  
-Android application for fair access to high-demand community events using waitlists, randomized selection, and QR-based discovery. Built with Firebase, real-time notifications, role-based access, and geolocation verification.
+Android application for fair access to high-demand community events using waitlists, randomized selection, and QR-based discovery. Built with Firebase, real-time notifications, role-based access, and geolocation verification.  
+
+***WebAble — Accessibility Extenstion***  
+A browser extension that adds a real-time accessibility layer to any webpage. It combines local ASL fingerspelling recognition, live speech-to-text captions, text-to-speech chat reading, and adaptive visual modes (epilepsy-safe, dyslexia-friendly, and colorblind filters) to make online spaces more inclusive.  
 
 ***Mini Compiler Backend — RISC-V → WebAssembly***  
 Binary translator that converts RISC-V program binaries into WebAssembly bytecode while preserving program semantics, including instruction parsing, LEB128 encoding, and structured control flow generation.
